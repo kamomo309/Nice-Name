@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 nice-name！！！
 hey!
 
+=======
+nice-name
+hey!
+matsuuraです。
+追記しました〜！
+>>>>>>> af3f6e1263f99a30a27c5bdf9f99887e8142d174
